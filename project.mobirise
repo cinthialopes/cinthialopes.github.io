@@ -35,12 +35,18 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/ika-iptv-128x125.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ika-iptv-128x125-3.png",
     "noImageResize": "",
-    "сanonical-url": "",
+    "сanonical-url": "http://<linkrel=",
     "uniqCompNum": 38,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://iptvikanni.com",
+    "sitemapSwitcherAuto": "on",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
